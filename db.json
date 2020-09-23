@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "renukajoshi4039@gmail.com",
+      "password": "renuka111"
+    }
+  ]
+  ,
+  "Project": [
+    {
+      "theme": "Test UI",
+      "roots": "Business Plan",
+      "type": "TDR",
+      "division":"Platform",
+      "category":"Quality A",
+      "M":"Man",
+      "department":"Strategy",
+      "location":"pune",
+      "projectneed":"",
+      "date":" "
+    }
+  ]
+  
+}
